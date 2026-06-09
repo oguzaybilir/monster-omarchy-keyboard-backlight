@@ -85,7 +85,7 @@ def print_welcome():
     panel = Panel(
         Align.center(welcome_text),
         border_style="cyan",
-        title="[bold white]OMARHY Keyboard Backlight Setup[/bold white]",
+        title="[bold white]OMARCHY Keyboard Backlight Setup[/bold white]",
         subtitle="[cyan]v1.0.0[/cyan]",
         padding=(1, 2)
     )
